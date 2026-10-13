@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="50%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#f0fdfa" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#042f2e" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <!-- Rounded App Icon Background -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  
+  <!-- Subtle Grid Accent -->
+  <circle cx="256" cy="256" r="210" stroke="#ffffff" stroke-width="2" stroke-opacity="0.12" fill="none"/>
+  <circle cx="256" cy="256" r="160" stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.1" fill="none"/>
+
+  <!-- Center Shield / Skill Badge -->
+  <g filter="url(#shadow)">
+    <!-- Shield Outline -->
+    <path d="M 256,104 L 380,154 C 380,270 326,356 256,396 C 186,356 132,270 132,154 Z" fill="url(#shield)"/>
+    
+    <!-- Inner Accent Border -->
+    <path d="M 256,120 L 364,164 C 364,264 316,340 256,376 C 196,340 148,264 148,164 Z" fill="none" stroke="#0d9488" stroke-width="4" stroke-opacity="0.25"/>
+
+    <!-- Gear / Skill Symbol -->
+    <circle cx="256" cy="226" r="44" fill="#0f766e"/>
+    <circle cx="256" cy="226" r="22" fill="#ffffff"/>
+
+    <!-- Verification Checkmark in Teal -->
+    <path d="M 220,296 L 246,322 L 302,266" fill="none" stroke="#0d9488" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Wordmark "RPL" in High Contrast Gold/White -->
+  <text x="256" y="448" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ccfbf1" text-anchor="middle" letter-spacing="4">KAUSHALSETU RPL</text>
+</svg>

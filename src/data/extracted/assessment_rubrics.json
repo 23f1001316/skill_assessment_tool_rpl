@@ -1,0 +1,58 @@
+[
+  {
+    "id": "RUBRIC-AG-06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "qualification_title": "Designer- Assessment Methods (VET and Skills)",
+    "pass_mark_aggregate": 70,
+    "ratio": "40% Theory : 60% Practical",
+    "module_weightages": [
+      {
+        "nos_code": "MEP/N2906, v2",
+        "title": "Design competency-based assessment",
+        "weightage": 15
+      },
+      {
+        "nos_code": "MEP/N2907, v2",
+        "title": "Develop competency-based assessment tools",
+        "weightage": 20
+      },
+      {
+        "nos_code": "MEP/N2909, v2",
+        "title": "Comply with Intellectual Property Rights, Rules, Regulations and Ethics",
+        "weightage": 17
+      },
+      {
+        "nos_code": "MEP/N2703, v3",
+        "title": "Evaluate on-field assessment and provide suggestions for improving training effectiveness",
+        "weightage": 25
+      },
+      {
+        "nos_code": "MEP/N2704, v3",
+        "title": "Plan and facilitate assessor development",
+        "weightage": 8
+      },
+      {
+        "nos_code": "MEP/N9903, v5",
+        "title": "Apply health and safety practices at the workplace",
+        "weightage": 7
+      },
+      {
+        "nos_code": "MEP/N9912, v3",
+        "title": "Apply principles of professional practice at the workplace",
+        "weightage": 3
+      },
+      {
+        "nos_code": "DGT/VSQ/N0103",
+        "title": "Employability Skills (90 Hours)",
+        "weightage": 5
+      }
+    ],
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "pages": [
+        6,
+        27
+      ]
+    }
+  }
+]

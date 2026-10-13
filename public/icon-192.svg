@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bg192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="50%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#bg192)"/>
+  <!-- Center Shield -->
+  <path d="M 96,36 L 144,56 C 144,104 122,136 96,152 C 70,136 48,104 48,56 Z" fill="#ffffff"/>
+  <!-- Gear -->
+  <circle cx="96" cy="84" r="18" fill="#0f766e"/>
+  <circle cx="96" cy="84" r="9" fill="#ffffff"/>
+  <!-- Checkmark -->
+  <path d="M 82,114 L 92,124 L 114,102" fill="none" stroke="#0d9488" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

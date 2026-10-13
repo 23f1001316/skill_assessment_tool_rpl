@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "SRC-NQR-EXCEL",
+    "file_name": "NQR_Qualifications_Summary.xlsx.xlsx",
+    "document_type": "NQR Qualifications Summary Spreadsheet",
+    "records_count": 2814,
+    "sheet_inspected": "Worksheet",
+    "status": "extracted",
+    "date_accessed": "13-Oct-2026",
+    "notes": "Full National Qualification Register export."
+  },
+  {
+    "source_id": "SRC-ES-30H",
+    "file_name": "Employability_Skills_30_Hours.pdf.pdf",
+    "document_type": "Model Curriculum PDF",
+    "duration_hours": 30,
+    "pages_count": 6,
+    "total_modules": 11,
+    "total_marks": 50,
+    "status": "extracted",
+    "notes": "Foundation Employability Skills curriculum."
+  },
+  {
+    "source_id": "SRC-ES-60H",
+    "file_name": "Employability_Skills_60_Hours.pdf.pdf",
+    "document_type": "Model Curriculum PDF",
+    "duration_hours": 60,
+    "pages_count": 7,
+    "total_modules": 12,
+    "total_marks": 50,
+    "status": "extracted",
+    "notes": "Intermediate Employability Skills curriculum."
+  },
+  {
+    "source_id": "SRC-ES-90H",
+    "file_name": "Employability_Skills_90_Hours.pdf.pdf",
+    "document_type": "Model Curriculum PDF",
+    "duration_hours": 90,
+    "pages_count": 7,
+    "total_modules": 12,
+    "total_marks": 50,
+    "status": "extracted",
+    "notes": "Advanced Employability Skills curriculum (associated with DGT/VSQ/N0103)."
+  },
+  {
+    "source_id": "SRC-ES-120H",
+    "file_name": "Employability_Skills_120_Hours.pdf.pdf",
+    "document_type": "Model Curriculum PDF",
+    "duration_hours": 120,
+    "pages_count": 8,
+    "total_modules": 12,
+    "total_marks": 100,
+    "marks_unit": "percentage",
+    "status": "extracted",
+    "notes": "Comprehensive Employability Skills curriculum."
+  },
+  {
+    "source_id": "SRC-AG-PDF",
+    "file_name": "Assessment_Guide.pdf.pdf",
+    "document_type": "NCVET Qualification File & Assessment Guide PDF",
+    "pages_count": 28,
+    "associated_qualification_code": "2022/OAFM/MEPSC/06022",
+    "associated_qualification_title": "Designer- Assessment Methods (VET and Skills)",
+    "status": "extracted",
+    "notes": "Contains complete assessment strategy, 40:60 theory/practical ratio, 70% passing threshold, detailed performance criteria, and evidence collection rules."
+  }
+]

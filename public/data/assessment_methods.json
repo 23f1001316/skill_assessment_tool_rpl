@@ -1,0 +1,34 @@
+[
+  {
+    "id": "AM-THEORY-SUMMATIVE",
+    "method_name": "Summative Written Theory Examination",
+    "weightage": 40,
+    "applicable_qualification": "2022/OAFM/MEPSC/06022",
+    "format": "Multiple Choice Questions (MCQ) & pictorial questions from pre-loaded question bank on tablet",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "AM-PRACTICAL-DEMO",
+    "method_name": "Summative Practical Demonstration & Applications",
+    "weightage": 60,
+    "applicable_qualification": "2022/OAFM/MEPSC/06022",
+    "format": "Live demonstration of tool design, application presentations, and computer/projector display",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "AM-VIVA-VOCE",
+    "method_name": "Oral Viva Voce & Situational Interview",
+    "applicable_qualification": "2022/OAFM/MEPSC/06022",
+    "format": "Used to gauge candidate's confidence and correct domain knowledge handling client & colleague interactions",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  }
+]

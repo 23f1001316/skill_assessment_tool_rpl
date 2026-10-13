@@ -1,0 +1,42 @@
+[
+  {
+    "id": "EV-REQ-TIME-GEO",
+    "type": "Location & Presence Evidence",
+    "requirement": "Time-stamped and geotagged reporting of assessor from assessment location",
+    "applicable_to": "2022/OAFM/MEPSC/06022",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "EV-REQ-CENTRE-PHOTO",
+    "type": "Centre Infrastructure Evidence",
+    "requirement": "Centre photographs with signboards and scheme-specific branding",
+    "applicable_to": "2022/OAFM/MEPSC/06022",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "EV-REQ-VIDEO-PRACTICAL",
+    "type": "Assessment Integrity Video",
+    "requirement": "Video recording of practical session prepared and submitted to MEPSC",
+    "applicable_to": "2022/OAFM/MEPSC/06022",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "EV-REQ-ID-AADHAAR",
+    "type": "Candidate Identity Verification",
+    "requirement": "Candidate Aadhaar number from registration database verified during assessment check-in",
+    "applicable_to": "2022/OAFM/MEPSC/06022",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "page": 27
+    }
+  }
+]

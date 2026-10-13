@@ -1,0 +1,1900 @@
+[
+  {
+    "id": "AG-PC-P16-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "finalise assessment methods and types of \r assessment tools that comply with the rules of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "prepare and document the assessment plan \r that includes various aspects of the assessment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "Share the assessment design with various \r competent authority like assessors, lead assessors,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "evaluate validity of the suggestions received \r from competent authorities and make valid",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "receive and interpret assessment design that \r contains the competencies to be assessed,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "identify existing assessment tools for the \r competencies to be assessed - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "analyse available assessment tools for their \r usability and modify as per received assessment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "select assessment method through which \r defined competency and occupational standard can",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "develop specific assessment activities to \r address the evidence to be collected - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "prepare assessment tools taking into account\r the assessment context and the principles of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "define clear and specific procedures instructing \r assessor and candidate on the administration and",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC8",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC8",
+    "description": "address assessment system policy and \r procedures requirements including storage and",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "write various types of items using principles of \r assessment and considering related contextual",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P16-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "check draft assessment tools against \r evaluation criteria and amend as necessary - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 16
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "trial draft assessment tools to validate \r content, applicability and usability",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "collect and document feedback from relevant \r people involved in trialling",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "analyse results of trail runs for feedback on \r assessments",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": "make amendments to the final tools based on \r analysis of feedback",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC15",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC15",
+    "description": "produce assessment specifications \r documentation",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P17-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "format and file finalised assessment tools in \r accordance with assessment system policies and",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 17
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "establish standard parameters that are \r important to ensure assessment effectiveness - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "identify the data and information required and \r access sources of information (Possible sources of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "collect data and information and store in \r compliance with the record keeping and privacy",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "identify and record potentially useful and \r relevant information that is not identified in the",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "analyse the data and information to identify \r the effectiveness of the various evidences collected;",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "cross-check findings where possible by \r comparing with the results from different evaluation",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "develop conclusions about the effectiveness \r and efficiency of assessments, as per the evaluation",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P18-PC8",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC8",
+    "description": "prepare document on areas or aspects of \r assessments that are satisfactory and those - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 18
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "suggest possible improvements to the \r assessment program - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "obtain competencies, occupational standards \r and performance criteria for assessors - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "share occupational standards and \r performance criteria with assessors and resolve",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "obtain the assessment schedule from \r assessment co-ordination team for all assessors",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "create and share own schedule of sample \r observation visits with administration and respective",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": ". observe an assessment session in progress \r and gather evidence of achievement of occupational",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC15",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC15",
+    "description": "observe all assessment tasks (pre-assessment, \r during assessment and post assessment) - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "conduct on-site visits or on-line assessment \r platform and assess performance - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC17",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC17",
+    "description": "discuss observations with the assessor after \r assessment session and validate the observations - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC18",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC18",
+    "description": "obtain and analyse data pertaining to various \r assessor performance indicators to identify",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC19",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC19",
+    "description": "identify areas of development for assessors \r based on information received from on-the-job",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC20",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC20",
+    "description": "document results of assessor performance \r evaluation in prescribed format - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC21",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC21",
+    "description": "select a sample of assessments for evaluation \r along with their evidences",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P19-PC22",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC22",
+    "description": "ensure that the selected sample includes \r examples from all assessors and assessment centres,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 19
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC23",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC23",
+    "description": "review assessors decisions and evidences \r independently and in line with the pre-determined",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC24",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC24",
+    "description": "identify inconsistencies and non-adherence to \r the established principles, rules and process of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC25",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC25",
+    "description": "check if the decisions have been fair and \r consistent across all assessors and assessment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC26",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC26",
+    "description": "deliberate on the evidence with the assessors \r before coming to a conclusion wherein a change of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC27",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC27",
+    "description": ". provide recommendation for decisions \r where the evaluation suggests that a change of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC28",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC28",
+    "description": "document the results of the evaluation along \r with the recommendations in the prescribed",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC29",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC29",
+    "description": "ensure the evaluation and submission of \r report for the same is conducted at agreed interval",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC30",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC30",
+    "description": "document recommendations and share with \r stakeholders on areas of possible improvement in",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "identify training needs of the assessors after \r studying the occupational standards and skill gap",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "list available learning and development \r resources and constraints - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "select the methods best suited for the training \r needs that can be applied within the available",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "prepare a training plan and schedule that fits in \r the assessors schedule without disrupting the work - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "develop training material taking help from \r content development team - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "prepare and implement a monitoring plan to \r ensure all assessors undergo the development plan - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P20-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "receive calendar for assessor training from \r authorised source (Authorised source: Assessment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 20
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC8",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC8",
+    "description": "analyse profile of assessor candidates to \r identify special requirements if any (Special",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "prepare session plan using the occupational \r standards and training materials provided by",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "deliver training and facilitate assessor learning - -\r PC11. conduct formative assessment of learning by",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "monitor and document learner progress to \r ensure outcomes are being achieved and individual",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "make adjustments to the delivery sessions to \r reflect specific needs and circumstances",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": "provide additional assistance to individual \r candidates as required",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC15",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC15",
+    "description": "manage inappropriate behaviour to ensure \r that effective learning can take place",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "collect feedback from all candidates in the \r prescribed format, while ensuring that all mandatory",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC17",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC17",
+    "description": "undertake post training activities like \r replacement of training equipment, submission of",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "identify, control and report health and safety \r issues relating to immediate work environment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "follow procedures and instructions for dealing \r with hazards, within the scope of responsibilities",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "document and report all hazards, accidents and \r near-miss incidents as per set process",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "document safety records according to \r organisational policies",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "maintain the work area in a clean and tidy \r condition",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "ensure that the work area is sanitised as and \r when required",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P21-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "maintain personal hygiene - -\r PC8. use appropriate personal protective equipment",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 21
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "wash hands using soap and water or alcohol \r based sanitiser",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "report hygiene related concerns promptly to \r the relevant authority",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "administer appropriate first aid to victims \r wherever required e.g. in case of bleeding, burns,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "respond promptly and appropriately to an \r accident situation or medical emergency in real or",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "perform rescue activity during an accident if \r applicable (e.g. if moving victim is advisable)",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": "follow fire safety practices - -\r PC15. identify the type of fire and its stage - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "use the various appropriate fire extinguishers \r on different types of fires correctly",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC17",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC17",
+    "description": "follow procedures to rescue victim of fire \r without endangering self",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "display appropriate professional appearance \r for the workplace",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "interact with team members, clients, vendors, \r visitors and other stakeholders in a Professional",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "develop personal and professional goals and \r objectives",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "identify strengths and weaknesses in relation to \r goals and objectives",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "evaluate own capacity to meet goals and \r objectives",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "determine personal development needs to \r perform role as per desired standards",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "develop a professional development plan to \r enhance professional capabilities",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC8",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC8",
+    "description": "document a professional practice plan designed \r to support the achievement of goals",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "select and implement development \r opportunities to support continuous learning and",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "research developments and trends impacting \r on professional practice and integrate information",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P22-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "seek feedback on performance from \r others and incorporate it to improve",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 22
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "perform tasks to the required workplace \r standard",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": "protect the rights of the client and \r organisation when delivering services",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC15",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC15",
+    "description": "recognise unethical conduct and report to an \r appropriate person",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "operate within an agreed ethical code of \r practice",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC17",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC17",
+    "description": "maintain confidentiality as per the \r organisational guidelines",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC18",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC18",
+    "description": "identify and obtain clarity regarding \r organisational, team and own goals",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC19",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC19",
+    "description": "prioritise tasks at work as per organisational, \r team and own goals",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC20",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC20",
+    "description": "plan to meet team performance targets and \r standards",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC21",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC21",
+    "description": "monitor own and team performance as per \r agreed plan",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC22",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC22",
+    "description": "share all relevant information with \r stakeholders in agreed formats and as per agreed",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC23",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC23",
+    "description": "work collaboratively with colleagues through \r sharing information and ideas and working together",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC24",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC24",
+    "description": "recognise, avoid and/or address any conflict of \r interest",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC25",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC25",
+    "description": "recognize and respond to inappropriate \r behaviour towards self or others in a professional",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC1",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC1",
+    "description": "understand the significance of employability \r skills in meeting the current job market requirement",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC2",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC2",
+    "description": "identify and explore learning and employability \r relevant portals - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC3",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC3",
+    "description": "research about the different industries, job \r market trends, latest skills required and the",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P23-PC4",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC4",
+    "description": "recognize the significance of constitutional \r values, including civic rights and duties, citizenship,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 23
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC5",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC5",
+    "description": "follow environmentally sustainable practices\r - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC6",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC6",
+    "description": "recognize the significance of 21st Century Skills \r for employment - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC7",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC7",
+    "description": "practice the 21st Century Skills such as Self￾Awareness, Behaviour Skills, time management, \r critical and adaptive thinking, problem-solving,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC8",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC8",
+    "description": "adopt a continuous learning mindset for \r personal and professional development - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC9",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC9",
+    "description": "use basic English for everyday conversation in \r different contexts, in person and over the telephone - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC10",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC10",
+    "description": "read and understand routine information, \r notes, instructions, mails, letters etc. written in",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC11",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC11",
+    "description": "write short messages, notes, letters, e-mails \r etc. in English - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC12",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC12",
+    "description": "identify career goals based on the skills, \r interests, knowledge, and personal attributes - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC13",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC13",
+    "description": "prepare a career development plan with \r short- and long-term goals - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC14",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC14",
+    "description": "follow verbal and non-verbal communication \r etiquette while communicating in professional and",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC15",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC15",
+    "description": "use active listening techniques for effective \r communication - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC16",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC16",
+    "description": "communicate in writing using appropriate \r style and format based on formal or informal",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC17",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC17",
+    "description": "work collaboratively with others in a team\r - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC18",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC18",
+    "description": "communicate and behave appropriately with \r all genders and PwD - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC19",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC19",
+    "description": "escalate any issues related to sexual \r harassment at workplace according to POSH Act - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC20",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC20",
+    "description": "identify and select reliable institutions for \r various financial products and services such as bank",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC21",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC21",
+    "description": "carry out offline and online financial \r transactions, safely and securely, using various",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P24-PC22",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC22",
+    "description": "identify common components of salary and \r compute income, expenses, taxes, investments etc - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 24
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC23",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC23",
+    "description": "identify relevant rights and laws and use legal \r aids to fight against legal exploitation - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC24",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC24",
+    "description": "operate digital devices and use their features \r and applications securely and safely - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC25",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC25",
+    "description": "carry out basic internet operations by \r connecting to the internet safely and securely, using",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC26",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC26",
+    "description": "display responsible online behaviour while \r using various social media platforms - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC27",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC27",
+    "description": "create a personal email account, send and \r process received messages as per requirement - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC28",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC28",
+    "description": "carry out basic procedures in documents, \r spreadsheets and presentations using respective",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC29",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC29",
+    "description": "utilize virtual collaboration tools to work \r effectively - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC30",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC30",
+    "description": "identify different types of Entrepreneurship \r and Enterprises and assess opportunities for",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC31",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC31",
+    "description": "develop a business plan and a work model, \r considering the 4Ps of Marketing Product, Price,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC32",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC32",
+    "description": "identify sources of funding, anticipate, and \r mitigate any financial/ legal hurdles for the potential",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC33",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC33",
+    "description": "identify different types of customers and ways \r to communicate with them - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC34",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC34",
+    "description": "identify and respond to customer requests \r and needs in a professional manner - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC35",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC35",
+    "description": "use appropriate tools to collect customer \r feedback - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC36",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC36",
+    "description": "follow appropriate hygiene and grooming \r standards - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC37",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC37",
+    "description": "create a professional Curriculum vitae \r (Résumé) - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC38",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC38",
+    "description": "search for suitable jobs using reliable offline \r and online sources such as Employment exchange,",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC39",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC39",
+    "description": "apply to identified job openings using offline\r /online methods as per requirement - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC40",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC40",
+    "description": "answer questions politely, with clarity and \r confidence, during recruitment and selection - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "AG-PC-P25-PC41",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "pc_code": "PC41",
+    "description": "identify apprenticeship opportunities and \r register for it as per guidelines and requirements - -",
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Detailed Assessment Criteria Annexure",
+      "page": 25
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  }
+]

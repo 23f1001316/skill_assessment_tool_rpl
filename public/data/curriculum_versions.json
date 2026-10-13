@@ -1,0 +1,102 @@
+[
+  {
+    "id": "CURR-ES-30H",
+    "title": "Employability Skills (30 hours)",
+    "duration_hours": 30,
+    "total_marks": 50,
+    "marks_unit": "marks",
+    "target_level": "Level 2",
+    "total_modules_found": 10,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page_count": 6,
+      "pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "CURR-ES-60H",
+    "title": "Employability Skills (60 hours)",
+    "duration_hours": 60,
+    "total_marks": 50,
+    "marks_unit": "marks",
+    "target_level": "Level 3-4",
+    "total_modules_found": 11,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page_count": 7,
+      "pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "CURR-ES-90H",
+    "title": "Employability Skills (90 hours)",
+    "duration_hours": 90,
+    "total_marks": 50,
+    "marks_unit": "marks",
+    "target_level": "Level 5 (DGT/VSQ/N0103)",
+    "total_modules_found": 11,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page_count": 7,
+      "pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "CURR-ES-120H",
+    "title": "Employability Skills (120 hours)",
+    "duration_hours": 120,
+    "total_marks": 100,
+    "marks_unit": "percentage",
+    "target_level": "Level 5+",
+    "total_modules_found": 11,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page_count": 8,
+      "pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  }
+]

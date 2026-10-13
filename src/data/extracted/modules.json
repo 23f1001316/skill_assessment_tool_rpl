@@ -1,0 +1,885 @@
+[
+  {
+    "id": "MOD-ES-30H-1",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 1,
+    "name": "Introduction to Employability Skills",
+    "allocated_hours": 1.0,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "1"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-2",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 2,
+    "name": "Constitutional values - Citizenship",
+    "allocated_hours": 1.0,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "2"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-3",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 4,
+    "name": "Basic English Skills",
+    "allocated_hours": 2.0,
+    "assessment_marks": 5.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "4"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-4",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 5,
+    "name": "Communication Skills",
+    "allocated_hours": 4.0,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "5"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-5",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 6,
+    "name": "Diversity & Inclusion",
+    "allocated_hours": 1.0,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "6"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-6",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 7,
+    "name": "Financial and Legal Literacy",
+    "allocated_hours": 4.0,
+    "assessment_marks": 7.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "7"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-7",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 8,
+    "name": "Essential Digital Skills",
+    "allocated_hours": 3.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "8"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-8",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 9,
+    "name": "Entrepreneurship",
+    "allocated_hours": 7.0,
+    "assessment_marks": 8.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "9"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-9",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 10,
+    "name": "Customer Service",
+    "allocated_hours": 4.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "10"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-30H-10",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "module_number": 11,
+    "name": "Getting ready for apprenticeship & Jobs",
+    "allocated_hours": 2.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "11"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-1",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 1,
+    "name": "Introduction to Employability Skills",
+    "allocated_hours": 1.5,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "1"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-2",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 2,
+    "name": "Constitutional values - Citizenship",
+    "allocated_hours": 1.5,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "2"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-3",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 4,
+    "name": "Basic English Skills",
+    "allocated_hours": 10.0,
+    "assessment_marks": 6.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "4"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-4",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 5,
+    "name": "Career Development & Goal Setting",
+    "allocated_hours": 2.0,
+    "assessment_marks": 3.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "5"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-5",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 6,
+    "name": "Communication Skills",
+    "allocated_hours": 5.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "6"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-6",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 7,
+    "name": "Diversity & Inclusion",
+    "allocated_hours": 2.5,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "7"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-7",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 8,
+    "name": "Financial and Legal Literacy",
+    "allocated_hours": 5.0,
+    "assessment_marks": 5.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "8"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-8",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 9,
+    "name": "Essential Digital Skills",
+    "allocated_hours": 10.0,
+    "assessment_marks": 8.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "9"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-9",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 10,
+    "name": "Entrepreneurship",
+    "allocated_hours": 7.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "10"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-10",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 11,
+    "name": "Customer Service",
+    "allocated_hours": 5.0,
+    "assessment_marks": 3.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "11"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-60H-11",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "module_number": 12,
+    "name": "Getting Ready for Apprenticeship & Jobs",
+    "allocated_hours": 8.0,
+    "assessment_marks": 5.0,
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "12"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-1",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 1,
+    "name": "Introduction to Employability Skills",
+    "allocated_hours": 3.0,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "1"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-2",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 2,
+    "name": "Constitutional values - Citizenship",
+    "allocated_hours": 1.5,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "2"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-3",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 4,
+    "name": "Basic English Skills",
+    "allocated_hours": 10.0,
+    "assessment_marks": 8.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "4"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-4",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 5,
+    "name": "Career Development & Goal Setting",
+    "allocated_hours": 4.0,
+    "assessment_marks": 3.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "5"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-5",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 6,
+    "name": "Communication Skills",
+    "allocated_hours": 10.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "6"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-6",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 7,
+    "name": "Diversity and Inclusion",
+    "allocated_hours": 2.5,
+    "assessment_marks": 2.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "7"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-7",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 8,
+    "name": "Financial and Legal Literacy",
+    "allocated_hours": 10.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "8"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-8",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 9,
+    "name": "Essential Digital Skills",
+    "allocated_hours": 20.0,
+    "assessment_marks": 8.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "9"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-9",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 10,
+    "name": "Entrepreneurship",
+    "allocated_hours": 7.0,
+    "assessment_marks": 5.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "10"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-10",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 11,
+    "name": "Customer Service",
+    "allocated_hours": 9.0,
+    "assessment_marks": 3.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "11"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-90H-11",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "module_number": 12,
+    "name": "Getting ready for apprenticeship & Jobs",
+    "allocated_hours": 8.0,
+    "assessment_marks": 5.0,
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "12"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-1",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 1,
+    "name": "Introduction to Employability Skills",
+    "allocated_hours": 3.0,
+    "assessment_marks": 4.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "1"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-2",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 2,
+    "name": "Constitutional values - Citizenship",
+    "allocated_hours": 3.0,
+    "assessment_marks": 6.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "2"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-3",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 4,
+    "name": "Basic English Skills",
+    "allocated_hours": 20.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "4"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-4",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 5,
+    "name": "Career Development & Goal Setting",
+    "allocated_hours": 4.0,
+    "assessment_marks": 6.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "5"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-5",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 6,
+    "name": "Communication Skills",
+    "allocated_hours": 10.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "6"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-6",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 7,
+    "name": "Diversity & Inclusion",
+    "allocated_hours": 5.0,
+    "assessment_marks": 6.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "7"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-7",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 8,
+    "name": "Financial and Legal Literacy",
+    "allocated_hours": 10.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "8"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-8",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 9,
+    "name": "Essential Digital Skills",
+    "allocated_hours": 20.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "9"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-9",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 10,
+    "name": "Entrepreneurship",
+    "allocated_hours": 15.0,
+    "assessment_marks": 10.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "10"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-10",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 11,
+    "name": "Customer Service",
+    "allocated_hours": 10.0,
+    "assessment_marks": 6.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "11"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-ES-120H-11",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "module_number": 12,
+    "name": "Getting Ready for Apprenticeship & Jobs",
+    "allocated_hours": 15.0,
+    "assessment_marks": 12.0,
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1,
+      "module_table_row": "12"
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-1",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N2906, v2",
+    "name": "Design competency-based assessment",
+    "allocated_hours": 90,
+    "assessment_marks": 100,
+    "weightage_pct": 15,
+    "type": "Core",
+    "nsqf_level": 6,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-2",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N2907, v2",
+    "name": "Develop competency-based assessment tools",
+    "allocated_hours": 90,
+    "assessment_marks": 100,
+    "weightage_pct": 20,
+    "type": "Core",
+    "nsqf_level": 6,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-3",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N2909, v2",
+    "name": "Comply with Intellectual Property Rights, Rules, Regulations and Ethics",
+    "allocated_hours": 60,
+    "assessment_marks": 100,
+    "weightage_pct": 17,
+    "type": "Core",
+    "nsqf_level": 6,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-4",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N2703, v3",
+    "name": "Evaluate on-field assessment and provide suggestions for improving training effectiveness",
+    "allocated_hours": 150,
+    "assessment_marks": 100,
+    "weightage_pct": 25,
+    "type": "Core",
+    "nsqf_level": 6,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-5",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N2704, v3",
+    "name": "Plan and facilitate assessor development",
+    "allocated_hours": 120,
+    "assessment_marks": 100,
+    "weightage_pct": 8,
+    "type": "Core",
+    "nsqf_level": 6,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-6",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N9903, v5",
+    "name": "Apply health and safety practices at the workplace",
+    "allocated_hours": 30,
+    "assessment_marks": 100,
+    "weightage_pct": 7,
+    "type": "Non-Core",
+    "nsqf_level": 5,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-7",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "MEP/N9912, v3",
+    "name": "Apply principles of professional practice at the workplace",
+    "allocated_hours": 30,
+    "assessment_marks": 100,
+    "weightage_pct": 3,
+    "type": "Non-Core",
+    "nsqf_level": 4,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 5
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "MOD-AG-8",
+    "curriculum_id": "AG-2022/OAFM/MEPSC/06022",
+    "qualification_code": "2022/OAFM/MEPSC/06022",
+    "nos_code": "DGT/VSQ/N0103",
+    "name": "Employability Skills (90 Hours)",
+    "allocated_hours": 90,
+    "assessment_marks": 50,
+    "weightage_pct": 5,
+    "type": "Non-Core",
+    "nsqf_level": 5,
+    "source": {
+      "source_file": "Assessment_Guide.pdf.pdf",
+      "source_type": "Qualification File Module Summary",
+      "page": 6
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  }
+]

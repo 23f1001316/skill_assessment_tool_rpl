@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "COMP-ES-30H-P1-1",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 1,
+    "description": "Introduction to Employability Skills 1 2",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-2",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 2,
+    "description": "Constitutional values - Citizenship 1 2",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-4",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 4,
+    "description": "Basic English Skills 2 5",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-5",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 5,
+    "description": "Communication Skills 4 2",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-6",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 6,
+    "description": "Diversity & Inclusion 1 2",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-7",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 7,
+    "description": "Financial and Legal Literacy 4 7",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-8",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 8,
+    "description": "Essential Digital Skills 3 10",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-9",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 9,
+    "description": "Entrepreneurship 7 8",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-10",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 10,
+    "description": "Customer Service 4 4",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-2",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 2,
+    "description": "Explain constitutional values, civic rights, duties, citizenship, responsibility towards society etc.",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-4",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 4,
+    "description": "Discuss 21st century skills.",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-7",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 7,
+    "description": "Demonstrate how to communicate in a well -mannered way with others.",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-9",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 9,
+    "description": "Show how to conduct oneself appropriately with all genders and PwD",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-11",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 11,
+    "description": "Discuss the significance of using financial products and services safely and securely.",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P1-12",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 12,
+    "description": "Explain the importance of managing expenses, income, and savings.",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P2-17",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 17,
+    "description": "Differentiate between types of customers",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P2-18",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 18,
+    "description": "Explain the significance of identifying customer needs and addressing them",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P2-20",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 20,
+    "description": "Create a biodata",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P2-21",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 21,
+    "description": "Use various sources to search and apply for jobs",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P2-22",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 22,
+    "description": "Discuss the significance of dressing up neatly and maintaining hygiene for an interview",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P4-3",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 3,
+    "description": "Scanner cum Printer As required",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P4-4",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 4,
+    "description": "Computer Tables As required",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P4-5",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 5,
+    "description": "Computer Chairs As required",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-30H-P4-6",
+    "curriculum_id": "CURR-ES-30H",
+    "duration_hours": 30,
+    "outcome_number": 6,
+    "description": "LCD Projector As required",
+    "source": {
+      "source_file": "Employability_Skills_30_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-1",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 1,
+    "description": "Introduction to Employability Skills 1.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-2",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 2,
+    "description": "Constitutional values - Citizenship 1.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-3",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 3,
+    "description": "Becoming a Professional in the 21st Century 2.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-4",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 4,
+    "description": "Basic English Skills 10 6",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-5",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 5,
+    "description": "Career Development & Goal Setting 2 3",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-6",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 6,
+    "description": "Communication Skills 5 4",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-7",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 7,
+    "description": "Diversity & Inclusion 2.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-8",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 8,
+    "description": "Financial and Legal Literacy 5 5",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-9",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 9,
+    "description": "Essential Digital Skills 10 8",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-10",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 10,
+    "description": "Entrepreneurship 7 4",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-11",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 11,
+    "description": "Customer Service 5 3",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-1",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 1,
+    "description": "Discuss the Employability Skills required for jobs in various industries",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-4",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 4,
+    "description": "Show how to practice different environmentally sustainable practices.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-5",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 5,
+    "description": "Discuss importance of relevant 21st century skills.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-7",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 7,
+    "description": "Describe the benefits of continuous learning.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-9",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 9,
+    "description": "Read and interpret text written in basic English",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-12",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 12,
+    "description": "Demonstrate how to communicate effectively using verbal and nonverbal communication etiquette.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-13",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 13,
+    "description": "Explain the importance of active listening for effective communication",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-15",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 15,
+    "description": "Demonstrate how to behave, communicate, and conduct oneself appropriately with all genders and PwD",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-16",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 16,
+    "description": "Discuss the significance of escalating sexual harassment issues as per POSH act.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P1-17",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 17,
+    "description": "Outline the importance of selecting the right financial institution, product, and service",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-19",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 19,
+    "description": "List the common components of salary and compute income, expenditure, taxes, investments etc.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-21",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 21,
+    "description": "Describe the role of digital technology in today’s life",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-24",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 24,
+    "description": "Create sample word documents, excel sheets and presentations using basic features",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-26",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 26,
+    "description": "Explain the types of entrepreneurship and enterprises",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-28",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 28,
+    "description": "Describe the 4Ps of Marketing-Product, Price, Place and Promotion and apply them as per requirement",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-30",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 30,
+    "description": "Describe the significance of analyzing different types and needs of customers",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-31",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 31,
+    "description": "Explain the significance of identifying customer needs and responding to them in a professional manner.",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-33",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 33,
+    "description": "Create a professional Curriculum Vitae (CV)",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-35",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 35,
+    "description": "Discuss the significance of maintaining hygiene and confidence during an interview",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P2-36",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 36,
+    "description": "Perform a mock interview",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P4-3",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 3,
+    "description": "Scanner cum Printer As required",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P4-4",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 4,
+    "description": "Computer Tables As required",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P4-5",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 5,
+    "description": "Computer Chairs As required",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-60H-P4-6",
+    "curriculum_id": "CURR-ES-60H",
+    "duration_hours": 60,
+    "outcome_number": 6,
+    "description": "LCD Projector As required",
+    "source": {
+      "source_file": "Employability_Skills_60_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-1",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 1,
+    "description": "Introduction to Employability Skills 3 2",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-2",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 2,
+    "description": "Constitutional values - Citizenship 1.",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-4",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 4,
+    "description": "Basic English Skills 10 8",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-5",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 5,
+    "description": "Career Development & Goal Setting 4 3",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-6",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 6,
+    "description": "Communication Skills 10 4",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-7",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 7,
+    "description": "Diversity and Inclusion 2.",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-8",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 8,
+    "description": "Financial and Legal Literacy 10 4",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-9",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 9,
+    "description": "Essential Digital Skills 20 8",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-10",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 10,
+    "description": "Entrepreneurship 7 5",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-11",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 11,
+    "description": "Customer Service 9 3",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-1",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 1,
+    "description": "Outline the importance of Employability Skills for the current job market and future of work",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-2",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 2,
+    "description": "List different learning and employability related GOI and private portals and their usage",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-6",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 6,
+    "description": "Discuss relevant 21st century skills required for employment",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-10",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 10,
+    "description": "Read and understand text written in basic English",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-12",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 12,
+    "description": "Create a career development plan",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-14",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 14,
+    "description": "Demonstrate how to communicate effectively using verbal and nonverbal communication etiquette",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P1-15",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 15,
+    "description": "Write a brief note/paragraph on a familiar topic",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-18",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 18,
+    "description": "Demonstrate how to behave, communicate, and conduct appropriately with all genders and PwD",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-20",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 20,
+    "description": "Discuss various financial institutions, products, and services",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-22",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 22,
+    "description": "Explain the common components of salary such as Basic, PF, Allowances (HRA, TA, DA, etc.",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-23",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 23,
+    "description": "Calculate income and expenditure for budgeting",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-25",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 25,
+    "description": "Describe the role of digital technology in day-to-day life and the workplace",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-27",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 27,
+    "description": "Demonstrate how to connect devices securely to internet using different means",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-28",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 28,
+    "description": "Follow the dos and don’ts of cyber security to protect against cyber crimes",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-30",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 30,
+    "description": "Create an e-mail id and follow e- mail etiquette to exchange e -mails",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-31",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 31,
+    "description": "Show how to create documents, spreadsheets and presentations using appropriate applications",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-33",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 33,
+    "description": "Explain the types of entrepreneurship and enterprises",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-35",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 35,
+    "description": "Describe the 4Ps of Marketing-Product, Price, Place and Promotion and apply them as per requirement",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-37",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 37,
+    "description": "Classify different types of customers",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-38",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 38,
+    "description": "Demonstrate how to identify customer needs and respond to them in a professional manner",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-39",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 39,
+    "description": "Discuss various tools used to collect customer feedback",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-41",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 41,
+    "description": "Draft a professional Curriculum Vitae (CV)",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-42",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 42,
+    "description": "Use various offline and online job search sources to find and apply for jobs",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-43",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 43,
+    "description": "Discuss the significance of maintaining hygiene and dressing appropriately for an interview",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P2-44",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 44,
+    "description": "Role play a mock interview",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P4-3",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 3,
+    "description": "Scanner cum Printer As required",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P4-4",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 4,
+    "description": "Computer Tables As required",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P4-5",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 5,
+    "description": "Computer Chairs As required",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-90H-P4-6",
+    "curriculum_id": "CURR-ES-90H",
+    "duration_hours": 90,
+    "outcome_number": 6,
+    "description": "LCD Projector As required",
+    "source": {
+      "source_file": "Employability_Skills_90_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 4
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-1",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 1,
+    "description": "Introduction to Employability Skills 3 4",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-2",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 2,
+    "description": "Constitutional values - Citizenship 3 6",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-3",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 3,
+    "description": "Becoming a Professional in the 21st Century 5 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-4",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 4,
+    "description": "Basic English Skills 20 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-5",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 5,
+    "description": "Career Development & Goal Setting 4 6",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-6",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 6,
+    "description": "Communication Skills 10 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-7",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 7,
+    "description": "Diversity & Inclusion 5 6",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-8",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 8,
+    "description": "Financial and Legal Literacy 10 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-9",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 9,
+    "description": "Essential Digital Skills 20 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-10",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 10,
+    "description": "Entrepreneurship 15 10",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-11",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 11,
+    "description": "Customer Service 10 6",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-1",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 1,
+    "description": "Outline the importance of Employability Skills for the current job market and future of work",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-2",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 2,
+    "description": "List different learning and employability related GOI and private portals and their usage",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-7",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 7,
+    "description": "Discuss relevant 21st century skills required for employment",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-10",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 10,
+    "description": "Use appropriate grammar and sentences while interacting with others",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-11",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 11,
+    "description": "Read English text with appropriate articulation",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-12",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 12,
+    "description": "Role play a situation on how to talk appropriately to a customer in English, over the phone or in person",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-14",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 14,
+    "description": "Create a career development plan",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P1-16",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 16,
+    "description": "Demonstrate how to communicate effectively using verbal and nonverbal communication etiquette",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 1
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-20",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 20,
+    "description": "Exhibit how to behave, communicate, and conduct oneself appropriately with all genders and PwD",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-22",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 22,
+    "description": "Discuss various financial institutions, products, and services",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-24",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 24,
+    "description": "Explain the common components of salary such as Basic, PF, Allowances (HRA, TA, DA, etc.",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-25",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 25,
+    "description": "Calculate income and expenditure for budgeting",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-27",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 27,
+    "description": "Describe the role of digital technology in day-to-day life and the workplace",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-29",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 29,
+    "description": "Demonstrate how to connect devices securely to internet using different means",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-30",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 30,
+    "description": "Follow the dos and don’ts of cyber security to protect against cyber crimes",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-32",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 32,
+    "description": "Create an e-mail id and follow e- mail etiquette to exchange e -mails",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-33",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 33,
+    "description": "Show how to create documents, spreadsheets and presentations using appropriate applications",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-35",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 35,
+    "description": "Describe the types of entrepreneurship and enterprises",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-37",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 37,
+    "description": "Describe the 4Ps of Marketing-Product, Price, Place and Promotion and apply them as per requirement",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-38",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 38,
+    "description": "Create a sample business plan, for the selected business opportunity",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-40",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 40,
+    "description": "Describe different types of customers",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-41",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 41,
+    "description": "Role play a situation on how to identify customer needs and respond to them in a professional manner",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-42",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 42,
+    "description": "Explain various tools used to collect customer feedback",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-44",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 44,
+    "description": "Draft a professional Curriculum Vitae (CV)",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-46",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 46,
+    "description": "Demonstrate how to apply to identified job openings using offline /online methods as per requirement",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-47",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 47,
+    "description": "Discuss how to prepare for an interview",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "COMP-ES-120H-P2-48",
+    "curriculum_id": "CURR-ES-120H",
+    "duration_hours": 120,
+    "outcome_number": 48,
+    "description": "Role play a mock interview",
+    "source": {
+      "source_file": "Employability_Skills_120_Hours.pdf.pdf",
+      "source_type": "Model Curriculum PDF",
+      "page": 2
+    },
+    "extraction_status": "extracted",
+    "verification_status": "unverified"
+  }
+]

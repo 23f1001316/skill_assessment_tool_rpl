@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ISSUE-MALFORMED-CHAR-397",
+    "source_file": "NQR_Qualifications_Summary.xlsx.xlsx",
+    "location": "Worksheet: Row 397",
+    "item_title": "Supply Chain Supervisor¬- Agri Commodities",
+    "item_code": "QG-05-TW-00232-2023-V1-LSC",
+    "issue_type": "TYPOGRAPHICAL_ENCODING_ARTIFACT",
+    "details": "Malformed non-text symbol detected in title 'Supply Chain Supervisor¬- Agri Commodities'. Flagged for coordinator cleanup.",
+    "severity": "LOW",
+    "status": "pending_manual_review"
+  },
+  {
+    "id": "ISSUE-DUP-CODE-546",
+    "source_file": "NQR_Qualifications_Summary.xlsx.xlsx",
+    "location": "Worksheet: Row 546 & Row 538",
+    "item_title": "Material Recovery Facility (MRF) Micro - Entrepreneur",
+    "item_code": "QG-04-ES-00913-2023-V1-SCGJ",
+    "issue_type": "DUPLICATE_CODE_IN_SOURCE",
+    "details": "Qualification code 'QG-04-ES-00913-2023-V1-SCGJ' appears multiple times in source spreadsheet (Row 538 and Row 546). Disambiguated by row index to prevent data collision.",
+    "severity": "HIGH",
+    "status": "pending_manual_review"
+  },
+  {
+    "id": "ISSUE-CATALOG-DISCREPANCY-06022",
+    "source_file": "Assessment_Guide.pdf.pdf",
+    "location": "Page 1-6 / Qualification File Header",
+    "item_title": "Designer- Assessment Methods (VET and Skills)",
+    "item_code": "2022/OAFM/MEPSC/06022",
+    "issue_type": "DISCREPANCY_BETWEEN_SOURCES",
+    "details": "Qualification 'Designer- Assessment Methods (VET and Skills)' (2022/OAFM/MEPSC/06022) is fully detailed in Assessment Guide PDF approved by 20th NSQC (30.06.2022), but is absent from NQR_Qualifications_Summary.xlsx.xlsx (which contains siblings 06023-06028). Flagged for coordinator audit.",
+    "severity": "HIGH",
+    "status": "pending_manual_review"
+  }
+]

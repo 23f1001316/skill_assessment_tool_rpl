@@ -1,0 +1,26 @@
+{
+  "extraction_date": "13-Oct-2026",
+  "total_source_files_inspected": 6,
+  "collections_generated": {
+    "qualifications": 2815,
+    "qualification_sources": 6,
+    "curriculum_versions": 4,
+    "modules": 51,
+    "competencies": 136,
+    "performance_criteria": 146,
+    "assessment_methods": 3,
+    "assessment_rubrics": 1,
+    "evidence_requirements": 4,
+    "extraction_review_issues": 3
+  },
+  "key_findings": [
+    "Extracted 2,814 qualifications from NQR Qualifications Summary spreadsheet (row 4 to 2817).",
+    "Extracted 4 independent Employability Skills curricula (30h, 60h, 90h, 120h) with module breakdowns, hours, and assessment marks.",
+    "Documented that 120h Employability Skills assessment marks are in percentage (total 100%) whereas 30h, 60h, and 90h are out of 50 marks.",
+    "Discovered that Assessment Guide PDF is the official Qualification File for 'Designer- Assessment Methods (VET and Skills)' (NCVET Code: 2022/OAFM/MEPSC/06022).",
+    "Identified catalog discrepancy: Code 2022/OAFM/MEPSC/06022 is fully documented in Assessment Guide PDF but absent from NQR summary Excel (which only contains 06023-06028). Flagged for manual review.",
+    "Identified duplicate code in NQR Excel: 'QG-04-ES-00913-2023-V1-SCGJ' in Row 538 (Junior Technician- Mechanized Sewer Cleaning) and Row 546 (Material Recovery Facility Micro - Entrepreneur). Both records preserved with row disambiguation.",
+    "Identified encoding artifact: character in Row 754 title ('Service Technician  Home Appliances'). Flagged for coordinator cleanup.",
+    "Preserved 100% of source references (file name, sheet name, row index, and PDF page numbers) across all extracted collections."
+  ]
+}
